@@ -13,7 +13,7 @@ function Landing() {
                     <Link className='text-black bg-yellow-600 px-10 py-6 mt-10 borde ' to='/'>Register Now!</Link>
                 </div>
 
-                <img className='w-2/5' src={gym} alt='man working out' />
+                <img className='w-40 md:w-2/5 pl-14 ' src={gym} alt='man working out' />
 
             </div>
         </>
